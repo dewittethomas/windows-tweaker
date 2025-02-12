@@ -13,5 +13,5 @@ The following tweaks are applied using this script:
 To run this script, you should run PowerShell as Administrator (on Windows 11) and run the following command:
 
 ```ps1
-irm "https://raw.githubusercontent.com/dewittethomas windows-tweaker/main/Script.ps1" | iex
+irm "https://raw.githubusercontent.com/dewittethomas/windows-tweaker/main/Script.ps1" | iex
 ```
